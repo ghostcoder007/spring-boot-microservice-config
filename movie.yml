@@ -9,6 +9,8 @@ spring:
     database: MYSQL
     hibernate:
       ddl-auto: none
+getinsured:
+  oep_flag: true
 server:
   port: 9006
 eureka:
